@@ -1,4 +1,4 @@
-logistic-regression
+Logistic Regression
 ===================
 
 logistic regression is a machine learning algorithm to perform classification on a dataset. 
