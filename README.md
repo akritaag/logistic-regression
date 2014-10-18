@@ -16,7 +16,7 @@ Thus we can establish that,
   Classification: y=0 or 1
   
     hypothesis function h(x) for given theta t,
-    h(x,t) can be >1 of <0
+    h(x,t) can be >1 or <0
     
 In Logistic Regression we have
 
